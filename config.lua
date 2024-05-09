@@ -1,6 +1,6 @@
 Config = {}
 
-Config.Control = 0x8AAA0AD4
+Config.Control = 0x8AAA0AD4    -- Default Left ALT
 Config.DrawDistance = 5.0
 
 --[[
