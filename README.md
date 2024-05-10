@@ -1,5 +1,5 @@
 **For?**
-RedM VORP-Framework
+RedM Standalone (tested in vorp)
 
 **What it does?**
 It shows you the Player-IDs in Range
